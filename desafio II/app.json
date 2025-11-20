@@ -1,9 +1,0 @@
-{
-  "expo": {
-    "name": "Desafio II",
-    "slug": "desafio-ii",
-    "platforms": ["ios", "android", "web"],
-    "version": "1.0.0",
-    "sdkVersion": "51.0.0"
-  }
-}

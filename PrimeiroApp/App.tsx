@@ -126,7 +126,7 @@ const App = () => {
     setMenuAberto(!menuAberto);
   };
 
-  const navegarPara = (pagina) => {
+  const navegarPara = (pagina: string) => {
     setPaginaAtual(pagina);
     setMenuAberto(false);
   };
